@@ -1,0 +1,5 @@
+public class main {
+    String[]links = {"ac","cd","b","cb","c","ab"};
+    String[]rechts = {"ab","bb","c","b","cd","c"};
+    if(w.substring(i).beginsWith(links[j]))
+}
